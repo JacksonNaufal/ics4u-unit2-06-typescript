@@ -17,7 +17,7 @@ console.log(biplane.getSpeed())
 
 const boeing = new Boeing()
 boeing.setSpeed(422)
-console.log(boeing.getSpeed)
+console.log(boeing.getSpeed())
 let x = 0
 
 while (x < 4) {
